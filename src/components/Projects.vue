@@ -1,7 +1,5 @@
-<script>
-export default {
-  name: "Projects",
-};
+<script lang="ts">
+export default {};
 </script>
 
 <template>
