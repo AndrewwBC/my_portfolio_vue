@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <h2>DevOps</h2>
+    <h2>Infra</h2>
   </div>
 </template>
 

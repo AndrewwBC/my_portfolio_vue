@@ -9,9 +9,9 @@ import Projects from "./components/Projects.vue";
 import AboutVue from "./components/About.vue";
 import FrontEndVue from "./components/aboutComponents/FrontEnd.vue";
 import BackEndVue from "./components/aboutComponents/BackEnd.vue";
-import DevOpsVue from "./components/aboutComponents/DevOps.vue";
 import SOVue from "./components/aboutComponents/SO.vue";
 import DesignVue from "./components/aboutComponents/Design.vue";
+import InfraVue from "./components/aboutComponents/Infra.vue";
 
 const routes = [
   { path: "/", component: IntroVue },
@@ -29,8 +29,8 @@ const routes = [
         component: BackEndVue,
       },
       {
-        path: "devops",
-        component: DevOpsVue,
+        path: "infra",
+        component: InfraVue,
       },
       {
         path: "so",
