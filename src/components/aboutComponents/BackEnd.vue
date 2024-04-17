@@ -51,6 +51,7 @@
 
 .intro {
   color: #999;
+  font-weight: 300;
 }
 
 .stackTools {

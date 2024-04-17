@@ -10,12 +10,10 @@ defineProps<{
       <h2>Hey, I'm Andrew 👋🏼</h2>
       <p>
         I was born on May 20th, 1999. I'm based in Brazil, and I've been a
-        programming student since 2022. In college, I've been learning about
+        programming student since 2022. Since then, I've been learning about
         <span> <RouterLink to="/about/frontend">Front-end</RouterLink></span
         >, <span> <RouterLink to="/about/backend">Back-end</RouterLink></span
-        >, <span> <RouterLink to="/about/infra">Infra</RouterLink></span
-        >, <span> <RouterLink to="/about/so">S.O</RouterLink></span> and
-        <span> <RouterLink to="/about/design">Design</RouterLink> </span>.
+        >, and <RouterLink to="/about/infra">Infra</RouterLink>.
       </p>
     </div>
 
